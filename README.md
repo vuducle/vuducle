@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 
 🔹 [Ausbildungsnachweis](https://github.com/vuducle/ausbildungsnachweis) - A React-based training log application for German apprentices (Auszubildende) to track daily tasks, generate PDF reports, and send to instructors (manually).  
 
+## Most used languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuducle&layout=compact&theme=radical)
+
 ## 📫 Connect with me  
 📧 Email: vuducle97@gmail.com  
 💼 LinkedIn: [vuducle97](https://www.linkedin.com/in/vuducle97/)  
