@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🎓 **International Media and Computer Science Student**  
 💻 **Web Developer | Next.js && Spring Boot**  
-⚡ **Fun fact: Mina and Zyzz have on the same day birthday**  
+⚡ **Fun fact: Mina (from TWICE) and Zyzz have on the same day birthday**  
 
 ## 🛠 Tech Stack  
 - **Frontend:** React, Next.js, PHP, Tailwind CSS  
