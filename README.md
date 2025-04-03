@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Duc! 👋  
 
+![Header](./banner.jpg)
+
+
 🎓 **International Media and Computer Science Student**  
 💻 **Web Developer | Next.js && Spring Boot**  
 ⚡ **Fun fact: Mina (from TWICE) and Zyzz have on the same day birthday**  
+⭐ **Bias: Jisoo(BLACKPINK), Momo(TWICE), Yeri(Red Velvet)**
 
 ## 🛠 Tech Stack  
 - **Frontend:** React, Next.js, PHP, Tailwind CSS  
@@ -31,7 +35,7 @@ Here are some ideas to get you started:
 
 🔹 [Ausbildungsnachweis](https://github.com/vuducle/ausbildungsnachweis) - A React-based training log application for German apprentices (Auszubildende) to track daily tasks, generate PDF reports, and send to instructors (manually).  
 
-## Most used languages
+## 🔥 Most used languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vuducle&layout=compact&theme=radical)
 
