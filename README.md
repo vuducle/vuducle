@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - **Frontend:** React, Next.js, PHP, Tailwind CSS  
 - **Backend:** Spring Boot, Node.js, Django
 - **Database:** PostgreSQL, MySQL, SQLite  
-- **Other:** Git, Figma, Linux
+- **Other:** Git, Docker, Figma, Linux
 
 ## 📌 Projects  
 🔹 [OnceVerse](https://github.com/vuducle/org.student.htw) - A dedicated social platform for TWICE fans (ONCEs) built with Spring Boot && Next.js
